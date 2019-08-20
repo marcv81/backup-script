@@ -1,0 +1,6 @@
+backups_root: backups
+
+sources:
+- /home/user/data/Archive
+- /home/user/data/Photos
+- /home/user/data/Videos
