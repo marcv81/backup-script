@@ -1,4 +1,4 @@
-backups_root: backups
+backups_root: ../backups
 
 sources:
 - /home/user/data/Archive

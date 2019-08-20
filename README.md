@@ -1,4 +1,4 @@
-# Backups
+# Backup script
 
 Simple wrapper around `rsync` to create incremental backups from multiple source directories.
 
